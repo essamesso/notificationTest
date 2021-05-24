@@ -1,4 +1,4 @@
-# testnotifications
+# notifactions
 
 A new Flutter project.
 
